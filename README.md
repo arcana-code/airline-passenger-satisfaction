@@ -60,9 +60,6 @@ Requirements
 To run the notebook, install the required Python libraries:
 pip install numpy pandas scikit-learn matplotlib seaborn
 
-Usage
-
-Clone the repository:git clone https://github.com/yourusername/airline-passenger-satisfaction.git
 
 
 Download the dataset: Obtain airline_passenger_satisfaction.csv from Kaggle and place it in the project folder.
